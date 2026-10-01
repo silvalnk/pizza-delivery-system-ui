@@ -2,6 +2,8 @@
 
 Aplicação de rastreamento de pedidos de pizza em Go, organizada em **Clean Architecture** com **MVVM** na camada de apresentação. Banco de dados: **PostgreSQL**.
 
+![Acompanhamento do pedido: pizza, status ao vivo e os dados da entrega](docs/images/pedido.jpg)
+
 ## Estrutura do projeto (Clean Architecture + MVVM)
 
 ```
