@@ -1,6 +1,9 @@
 # Pizza Tracker
 
-Aplicação de rastreamento de pedidos de pizza em Go, organizada em **Clean Architecture** com **MVVM** na camada de apresentação. Banco de dados: **PostgreSQL**.
+> Sistema de rastreamento de pedidos de pizza em **Go**.
+> API HTTP em **Gin** · banco **PostgreSQL** com **GORM**.
+> Status ao vivo, Clean Architecture / DDD e MVVM na apresentação.
+> A interface e este README ficam em português.
 
 ![Acompanhamento do pedido: pizza, status ao vivo e os dados da entrega](docs/images/pedido.jpg)
 
